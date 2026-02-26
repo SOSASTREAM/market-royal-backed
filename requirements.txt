@@ -1,6 +1,7 @@
 fastapi
 uvicorn
-pymongo
+python-decouple
 python-dotenv
-requests
-validators
+motor
+pydantic
+bcrypt
